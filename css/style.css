@@ -1,6 +1,18 @@
 body
 {   
-    color: teal;
-    text-align: center;
+    color: black;
+    text-align: left;
     font-family:monospace;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
