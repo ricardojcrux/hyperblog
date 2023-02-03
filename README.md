@@ -9,4 +9,5 @@ It's a great blog about myself
 * Spanish
 * English
 * A bit of Portuguese and Italian
+* If you teach me German, maybe I can learn it
 * That's all
